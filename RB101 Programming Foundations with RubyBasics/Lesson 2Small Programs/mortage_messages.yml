@@ -1,0 +1,12 @@
+---
+invalid_number: "Hm ... that doesn't look like a valid number. Try again"
+welcome: "Welcome to Mortgage Calculator!"
+loan_prompt: "How much do you want to loan?"
+apr_prompt: "Can you tell me what the Annual Percentage Rate is? (%)"
+loan_duration_prompt: "Can you tell me how long the loan should run for (years)?"
+repeat?: "Do you want to do another mortgage calculation? (Y to continue)"
+goodbye: "Thank you for using Mortgage Calculator!"
+result: "The result is "
+calculating: "calculating result ... "
+invalid_loan_duration: "The loan duration must be a whole number"
+

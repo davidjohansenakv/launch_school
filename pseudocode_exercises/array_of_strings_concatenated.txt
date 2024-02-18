@@ -1,0 +1,16 @@
+Given an array of strings
+	Create a variable to hold our concatenated string
+	Iterate over the array
+		For each iteration get the character in the array
+		Add the character to the string 
+	Return concatenated string
+
+Formal
+START 
+	# Given an array of strings 
+
+	SET concatenated_string = nil 
+	array.EACH 
+		SET concatenated_string += character
+	RETURN concatenated_string 	
+END  

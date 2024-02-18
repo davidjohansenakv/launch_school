@@ -1,0 +1,16 @@
+Informal # a method that returns the sum of two integers
+
+Define metod that takes two arguments that we want to add together
+Add the numbers together 
+return the numbers  
+
+
+Formal 
+START 
+
+DEF METHOD(ARG1, ARG2) 
+SET num1 = ARG1 
+SET num2 = ARG2
+SET result = num1 + num2
+
+END  

@@ -1,0 +1,21 @@
+
+What are the rules for a float? 
+
+A float may contain only integers
+1232345
+A float may contain only decimals 
+.23232323
+A float may contain both
+12121.88354 
+A float may not contain anything else 
+
+There must be at least a number, or a decimal, or both 
+
+The inner group says a . plus at least one digit 
+(\.\d+)? 
+The outher condition say that this can be there zero or one time 
+
+(\d*) - the first number can be there 0 or infinite times 
+
+Now the last condition, the most difficult one:
+There must be at least either the first group or the second group. 
